@@ -1,0 +1,66 @@
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Model files
+*.h5
+*.pth
+
+# Temporary files
+*.tmp
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+venv/
+env/
+# Compiled files
+*.pyc
+*.class
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Model checkpoints and weights
+*.h5
+*.pth
+
+# TensorBoard logs
+logs/
+
+# Environment and package files
+.env
+*.env
+*.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and dataset files
+data/
+dataset/
+
+# Model artifacts
+models/
+
+# Visualizations and plots
+plots/
+
+# Temporary files
+tmp/
+temp/
+__pycache__/
