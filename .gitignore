@@ -1,13 +1,3 @@
-# Compiled files
-*.pyc
-*.pyo
-*.pyd
-
-# Logs and databases
-*.log
-*.sqlite
-*.db
-
 # Model files
 *.h5
 *.pth
@@ -64,3 +54,4 @@ plots/
 tmp/
 temp/
 __pycache__/
+checkpoint*/
